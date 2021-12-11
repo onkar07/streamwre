@@ -1,0 +1,9 @@
+Username: 9NicSIvGLh
+
+Database name: 9NicSIvGLh
+
+Password: WNHSOCCk1o
+
+Server: remotemysql.com
+
+Port: 3306
