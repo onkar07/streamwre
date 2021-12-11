@@ -19,7 +19,7 @@ exports.login = function(req, res){
 
 exports.stream = function(req,res){
   const range = req.headers.range;
-    const videoPath = 'https://www.youtube.com/watch?v=bjzI5NN6dfY&ab_channel=ThinkMusicIndia';
+    const videoPath = 'memba.mp4';
     const videoSize = fs.statSync(videoPath).size;
 
     const chunkSize = 1 * 1e+6;
